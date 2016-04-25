@@ -26,7 +26,7 @@ For the use case scenario, after this lab is completed your application should h
 3. After the user fills out the form they are redirected to the `show` page that renders the `student` record that they created
 
 
-Make sure to use a route helper method to redirect to the `student` `show` page at the end of the `create` method, you can get this route by running `rake routes` in the terminal
+Make sure to use a route helper method to redirect to the `student` `show` page at the end of the `create` method, you can get this route by running `rake routes` in the terminal.
 
 
 ## Resources
